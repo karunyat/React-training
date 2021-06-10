@@ -1,1 +1,1 @@
-# javaScript-training
+# React-training
